@@ -9,6 +9,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/
-responsive-real-state-website
-/preview.png)
+![preview img](../preview.png)
